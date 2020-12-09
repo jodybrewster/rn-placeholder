@@ -57,7 +57,7 @@ const styles = StyleSheet.create({
   shine: {
     backgroundColor: "white",
     height: "100%",
-    opacity: 0.5,
+    opacity: 0.2,
     width: "40%",
   },
 });
